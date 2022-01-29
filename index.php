@@ -123,6 +123,8 @@
 						<i class="material-icons">email</i>
 						<a href="mailto:adresse@gmail.com">adresse@gmail.com</a>
 					</div>
+					<i class="material-icons">account_circle</i>
+				<a href="https://cvmarhoffergeoffrey.herokuapp.com/" target="_blank">Codeur: Geoffrey</a>
 				</span>
 			</footer>
 		</body>
