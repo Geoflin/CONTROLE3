@@ -10,14 +10,14 @@
 	<body id="bodyInscription">
 		<nav>
 			<div>
-				<a href="index.html">ACCUEIL</a>
+				<a href="index.php">ACCUEIL</a>
 			</div>
 			<div>
-				<a href="CLASSEMENT.html" target="_blank">CLASSEMENTS</div>
+				<a href="CLASSEMENT.php" >CLASSEMENTS</div>
 				<div>
-					<a href="INSCRIPTION.html" target="_blank">INSCRIPTION</div>
+					<a href="INSCRIPTION.php" >INSCRIPTION</div>
 					<div>
-						<a href="EVENEMENT.html" target="_blank">EVENEMENT</a>
+						<a href="EVENEMENT.php" >EVENEMENT</a>
 					</div>
 				</nav>
 				<main class="inscription">

@@ -10,14 +10,14 @@
 	<body id="registration">
 		<nav>
 			<div>
-				<a href="index.html">ACCUEIL</a>
+				<a href="index.php">ACCUEIL</a>
 			</div>
 			<div>
-				<a href="CLASSEMENT.html" target="_blank">CLASSEMENTS</div>
+				<a href="CLASSEMENT.php" >CLASSEMENTS</div>
 				<div>
-					<a href="INSCRIPTION.html" target="_blank">INSCRIPTION</div>
+					<a href="INSCRIPTION.php" >INSCRIPTION</div>
 					<div>
-						<a href="EVENEMENT.html" target="_blank">EVENEMENT</a>
+						<a href="EVENEMENT.php" >EVENEMENT</a>
 					</div>
 				</nav>
 				<header>
@@ -28,22 +28,22 @@
 					<img src="ARROWS.png" alt="ARROWS" width="200px" height="200px" class="img" id="pictureRight"/>
 				</header>
 				<aside>
-					<h1><a href="EVENEMENT.html" target="_blank">EVENEMENT</a></h1>
+					<h1><a href="EVENEMENT.php" >EVENEMENT</a></h1>
 					<img src="CIBLE.webp" alt="EVENEMENT" width="200px" height="200px">
 					<div class="time">
 						09/07/2021
 					</div>
-					<a href="EVENEMENT.html" target="_blank">Nouveaux records de France en cadette et junior femmes</a>
+					<a href="EVENEMENT.php" >Nouveaux records de France en cadette et junior femmes</a>
 					<br/>
 					<div class="time">
 						08/07/2021
 					</div>
-					<a href="EVENEMENT.html" target="_blank">Daniel Lelou et Guillaume Toucoullet décrochent leur quota pour les Jeux Paralympiques de Tokyo !</a>
+					<a href="EVENEMENT.php" >Daniel Lelou et Guillaume Toucoullet décrochent leur quota pour les Jeux Paralympiques de Tokyo !</a>
 					<br/>
 					<div class="time">
 						07/07/2021
 					</div>
-					<a href="EVENEMENT.html" target="_blank">Le club de St Avertin CASAS inaugure sa nouvelle salle dédiée au tir à l'arc</a>
+					<a href="EVENEMENT.php" >Le club de St Avertin CASAS inaugure sa nouvelle salle dédiée au tir à l'arc</a>
 					<br/>
 				</div>
 			</aside>
@@ -124,7 +124,7 @@
 						<a href="mailto:adresse@gmail.com">adresse@gmail.com</a>
 					</div>
 					<i class="material-icons">account_circle</i>
-				<a href="https://cvmarhoffergeoffrey.herokuapp.com/" target="_blank">Codeur: Geoffrey</a>
+				<a href="https://cvmarhoffergeoffrey.herokuapp.com/" >Codeur: Geoffrey</a>
 				</span>
 			</footer>
 		</body>
